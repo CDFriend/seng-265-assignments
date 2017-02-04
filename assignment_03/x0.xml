@@ -1,0 +1,29 @@
+<quiz_log>
+<answer>
+	<index>0</index>
+	<path>python/min3_bull_10</path>
+	<result></result>
+	<answer></answer>
+	<time></time>
+</answer>
+<display>
+	<index>0</index>
+	<path>python/min3_bull_10</path>
+	<time>1444959184</time>
+</display>
+
+<answer>
+	<index>0</index>
+	<path>python/min3_bull_10</path>
+	<result>0</result>
+	<answer>{'$x1': '1', '$x0': '0'}</answer>
+	<time>1444959200</time>
+</answer>
+<answer>
+	<index>0</index>
+	<path>python/min3_bull_10</path>
+	<result>1</result>
+	<answer>{'$x1': '1', '$x0': '0'}</answer>
+	<time>1444959206</time>
+</answer>
+</quiz_log>

@@ -1,0 +1,17 @@
+<assignments>
+	<assignment>
+		<mark_id>a0</mark_id>
+		<points>100</points>
+		<percentage>50.0</percentage>
+	</assignment>
+	<assignment>
+		<points>20</points>
+		<percentage>25.0</percentage>
+		<mark_id>a1</mark_id>
+	</assignment>
+	<assignment>
+		<points>10</points>
+		<mark_id>a2</mark_id>
+		<percentage>25.0</percentage>
+	</assignment>
+</assignments>

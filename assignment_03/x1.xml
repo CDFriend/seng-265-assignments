@@ -1,0 +1,90 @@
+<quiz_log>
+<answer>
+	<index>0</index>
+	<path>python/min3_bull_10</path>
+	<result></result>
+	<answer></answer>
+	<time></time>
+</answer>
+<answer>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<result></result>
+	<answer></answer>
+	<time></time>
+</answer>
+<answer>
+	<index>2</index>
+	<path>python/while_continue_1</path>
+	<result></result>
+	<answer></answer>
+	<time></time>
+</answer>
+<answer>
+	<index>3</index>
+	<path>python/while_continue_2</path>
+	<result></result>
+	<answer></answer>
+	<time></time>
+</answer>
+<display>
+	<index>0</index>
+	<path>python/min3_bull_10</path>
+	<time>0</time>
+</display>
+<answer>
+	<index>0</index>
+	<path>python/min3_bull_10</path>
+	<result>1</result>
+	<answer>{'$x1': '1', '$x0': '0'}</answer>
+	<time>2</time>
+</answer>
+<display>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<time>4</time>
+</display>
+<answer>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<result>0</result>
+	<answer>{'$y0': '3'}</answer>
+	<time>7</time>
+</answer>
+<display>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<time>8</time>
+</display>
+<answer>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<result>1</result>
+	<answer>{'$y0': '3'}</answer>
+	<time>9</time>
+</answer>
+<display>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<time>14</time>
+</display>
+<answer>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<result>1</result>
+	<answer>{'$y0': '3'}</answer>
+	<time>16</time>
+</answer>
+<display>
+	<index>2</index>
+	<path>python/while_continue_1</path>
+	<time>17</time>
+</display>
+<answer>
+	<index>2</index>
+	<path>python/while_continue_1</path>
+	<result>0</result>
+	<answer>{'$y0': '9'}</answer>
+	<time>20</time>
+</answer>
+</quiz_log>

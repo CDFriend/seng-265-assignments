@@ -1,0 +1,38 @@
+<students>
+	<student>
+		<first_name>f0</first_name>
+		<last_name>l0</last_name>
+		<student_id>id0</student_id>
+		<marks>
+			<mark>
+				<mark_id>a0</mark_id>
+				<score>60</score>
+			</mark>
+			<mark> <mark_id>a1</mark_id>
+				<score>10</score>
+			</mark>
+			<mark> <mark_id>a2</mark_id>
+				<score>5</score>
+			</mark>
+		</marks>
+	</student>
+	<student>
+		<student_id>id1</student_id>
+		<first_name>f1</first_name>
+		<last_name>l1</last_name>
+		<marks>
+			<mark>
+				<score>100</score>
+				<mark_id>a0</mark_id>
+			</mark>
+			<mark>
+				<mark_id>a1</mark_id>
+				<score>20</score>
+			</mark>
+			<mark>
+				<score>10</score>
+				<mark_id>a2</mark_id>
+			</mark>
+		</marks>
+	</student>
+</students>

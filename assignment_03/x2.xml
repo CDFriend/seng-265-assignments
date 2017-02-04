@@ -1,0 +1,114 @@
+<quiz_log>
+<answer>
+	<index>0</index>
+	<path>python/min3_bull_10</path>
+	<result></result>
+	<answer></answer>
+	<time></time>
+</answer>
+<answer>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<result></result>
+	<answer></answer>
+	<time></time>
+</answer>
+<answer>
+	<index>2</index>
+	<path>python/while_continue_1</path>
+	<result></result>
+	<answer></answer>
+	<time></time>
+</answer>
+<answer>
+	<index>3</index>
+	<path>python/while_continue_2</path>
+	<result></result>
+	<answer></answer>
+	<time></time>
+</answer>
+
+<display>
+	<index>0</index>
+	<path>python/min3_bull_10</path>
+	<time>1444959184</time>
+</display>
+<answer>
+	<index>0</index>
+	<path>python/min3_bull_10</path>
+	<result>0</result>
+	<answer>{'$x1': '1', '$x0': '0'}</answer>
+	<time>1444959206</time>
+</answer>
+
+<display>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<time>1444959208</time>
+</display>
+<answer>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<result>0</result>
+	<answer>{'$y0': '3'}</answer>
+	<time>1444959236</time>
+</answer>
+<display>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<time>1444959238</time>
+</display>
+<answer>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<result>1</result>
+	<answer>{'$y0': '3'}</answer>
+	<time>1444959240</time>
+</answer>
+
+<display>
+	<index>1</index>
+	<path>python/for_break_8</path>
+	<time>1444959248</time>
+</display>
+
+<display>
+	<index>2</index>
+	<path>python/while_continue_1</path>
+	<time>1444959278</time>
+</display>
+<answer>
+	<index>2</index>
+	<path>python/while_continue_1</path>
+	<result>0</result>
+	<answer>{'$y0': '9'}</answer>
+	<time>1444959317</time>
+</answer>
+<answer>
+	<index>2</index>
+	<path>python/while_continue_1</path>
+	<result>0</result>
+	<answer>{'$y0': '9'}</answer>
+	<time>1444959327</time>
+</answer>
+
+<display>
+	<index>3</index>
+	<path>python/while_continue_2</path>
+	<time>1444959338</time>
+</display>
+<answer>
+	<index>3</index>
+	<path>python/while_continue_1</path>
+	<result>0</result>
+	<answer>{'$y0': '9'}</answer>
+	<time>1444959347</time>
+</answer>
+<answer>
+	<index>3</index>
+	<path>python/while_continue_1</path>
+	<result>0</result>
+	<answer>{'$y0': '9'}</answer>
+	<time>1444959357</time>
+</answer>
+</quiz_log>
